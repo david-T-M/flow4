@@ -46,3 +46,4 @@ Para observar el resutlado de este flow, abre un navegador y dirígete a localho
 Resultados
 <img src='./flow4_1.png'>
 <img src='./flow4_2.png'>
+<img src='./flow4_3.png'>
